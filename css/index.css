@@ -613,6 +613,7 @@ width: 50%;
     }
     .main__products {
         width: 100%;
+        margin: 0 auto;
     }
     .main__shop {
         width: 100%;
@@ -651,6 +652,7 @@ width: 50%;
     }
     .main__products {
         width: 100%;
+        margin: 0 auto;
     }
     .main__shop {
         width: 100%;
@@ -681,19 +683,6 @@ width: 50%;
     }
 }
 
-@media (min-width: 600px) and (max-width: 992px) {
-    .main {
-        display: block;
-        width: 80%;
-        margin: auto;
-    }
-    .main__products {
-        width: 100%;
-    }
-    .main__shop {
-        width: 100%;
-    }
-}
 
 @media (min-width: 992px) and (max-width: 1200px) {
     .main {
